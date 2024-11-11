@@ -1,0 +1,1 @@
+This script connects to cisco switch from switches.txt, gets MAC ADDR from each port via DHCP snooping and checks via macvendors API if its Routerboard's mac, I used it for checking if the device is MikroTik 
